@@ -1,6 +1,6 @@
 # Graph Visualizer
 
-I made this project because of the importance of graphs and their algorithms and how easy they can be if visualised properly.
+I made this project because of the importance of graphs and their algorithms and how easy they can be if visualised properly. You can view it [here](https://devashish-vyas.github.io/graph-visualizer/).
 
 
 ## Project consists of two sections:- 
